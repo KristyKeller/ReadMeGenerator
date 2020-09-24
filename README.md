@@ -10,13 +10,13 @@ so that I can quickly create a professional README for a new project
 ## Application Description
 A command-line README generator application that formats the user's input using Markdown.
 
-## Demo
-![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
-
 ## Screenshots
 ![screenshot1](./Assets/Images/example-1.PNG)
-![screenshot3](./Assets/Images/example-3.PNG)
+![screenshot3](./Assets/Images/example-last.PNG)
 ![screenshot2](./Assets/Images/example-2.PNG)
+
+## Demo
+![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
 
 ## Built With
 * Node
