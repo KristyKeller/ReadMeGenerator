@@ -1,10 +1,10 @@
-# test
+# Example Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-test
+A short description providing details on the project goes here.
 
 ## Table of Contents
 
@@ -22,24 +22,28 @@ test
 
 ## Installation
     
-    test
+    npm i
 
 ## Tests  
 
-    test
+    npm test
 
 ## Usage
 
-test
+Anything the user needs to know about using the repo goes here.
 
 ## Contributing
 
-test
+Anything regarding contributing to your repo goes here.
 
 ## License
 
-test
+This license is under MIT.
 
 ## Questions
 
-[test](test)[test](https://github.com/test)
+If you have any questions, please contact me at the following:
+
+* [keller.kristy@outlook.com](keller.kristy@outlook.com)
+
+* [KristyKeller](https://github.com/KristyKeller)
