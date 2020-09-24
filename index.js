@@ -12,6 +12,7 @@ const licenseOptions = {
 
   "None": "None"
 }
+
 // Write types, messages and names to match requirements 
 
 inquirer
@@ -22,6 +23,7 @@ inquirer
       message: "What is your project's title?",
       name: "projectTitle"
     },
+
     // License badges section
     {
       type: "list",
@@ -70,12 +72,14 @@ inquirer
       message: "What does the user need to know about contributing to the repo?",
       name: "contributing"
     },
+
     // License description section
     {
       type: "input",
       message: "What is your project licensed under?",
       name: "licenseDescription"
     },
+
     // Questions section
     {
       type: "input",
@@ -107,8 +111,9 @@ inquirer
     input += `\n\n`
     input += response.description
     input += `\n\n`
+    
         // Table of Contents 
-        var tableOfContents = "## Table of Contents\n\n[Installation](#installation)\n\n[Tests](#Tests)\n\n[Usage](#usage)\n\n[Contributing](#contributing)\n\n[License](#licenseDescription)\n\n[Questions](#questions)" 
+        var tableOfContents = "## Table of Contents\n\n* [Installation](#installation)\n\n* [Tests](#Tests)\n\n* [Usage](#usage)\n\n* [Contributing](#contributing)\n\n* [License](#licenseDescription)\n\n* [Questions](#questions)" 
         input += tableOfContents
   input += `\n\n`
     input += "## Installation"
