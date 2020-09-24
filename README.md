@@ -1,35 +1,49 @@
-# 🧾 README Generator
+# Example Project
 
-## User Story
-```
-As a developer
-I want a README generator
-so that I can quickly create a professional README for a new project
-
-```
-## Application Description
-A command-line README generator application that formats the user's input using Markdown.
-
-## Demo
-![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
-
-## Screenshots
-![screenshot1](./Assests/Images/example-1.png)
-![screenshot2](./Assests/Images/example-2.png)
-
-## Built With
-* Node
-* Inquirer
-* Markdown
-* JavaScript
-
-## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Copyright 2020 ©Kristy Keller
+## Description
 
-<sup>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-  
-<sup>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-  
-<sup>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+A short description providing details on the project goes here.
+
+## Table of Contents
+
+* [Installation](#installation)
+
+* [Tests](#Tests)
+
+* [Usage](#usage)
+
+* [Contributing](#contributing)
+
+* [License](#licenseDescription)
+
+* [Questions](#questions)
+
+## Installation
+    
+    npm i
+
+## Tests  
+
+    npm test
+
+## Usage
+
+Anything the user needs to know about using the repo goes here.
+
+## Contributing
+
+Anything regarding contributing to your repo goes here.
+
+## License
+
+This license is under MIT.
+
+## Questions
+
+If you have any questions, please contact me at the following:
+
+* [keller.kristy@outlook.com](keller.kristy@outlook.com)
+
+* [KristyKeller](https://github.com/KristyKeller)
