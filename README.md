@@ -14,9 +14,9 @@ A command-line README generator application that formats the user's input using 
 ![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
 
 ## Screenshots
-![screenshot2](./Assets/Images/example-2.PNG)
 ![screenshot1](./Assets/Images/example-1.PNG)
-![screenshot3](./Assets/Images/example-2.PNG)
+![screenshot2](./Assets/Images/example-2.PNG)
+![screenshot3](./Assets/Images/example-3.PNG)
 
 ## Built With
 * Node
