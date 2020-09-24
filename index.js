@@ -108,7 +108,7 @@ inquirer
     input += response.description
     input += `\n\n`
         // Table of Contents 
-        var tableOfContents = "## Table of Contents* [Installation](#installation)* [Tests](#Tests)* [Usage](#usage)* [Contributing](#contributing)* [License](#licenseDescription)* [Questions](#questions)"
+        var tableOfContents = "## Table of Contents\n\n[Installation](#installation)\n\n[Tests](#Tests)\n\n[Usage](#usage)\n\n[Contributing](#contributing)\n\n[License](#licenseDescription)\n\n[Questions](#questions)" 
         input += tableOfContents
   input += `\n\n`
     input += "## Installation"
