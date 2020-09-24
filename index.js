@@ -137,10 +137,6 @@ inquirer
     input += `\n\n`
     input += "## Questions"
     input += `\n\n`
-    input += response.questions
-    input += `\n\n`
-    input += response.username 
-    input += `\n\n`
     input += "["+response.email+"]("+response.email+")"
     input += "["+response.username+"](https://github.com/"+response.username+")"
 

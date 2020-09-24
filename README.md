@@ -1,32 +1,32 @@
-# test
+# Cool Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-test
+This Porject generates a readme
 
-## Table of Contents*
+## Table of Contents
 
-[Installation](#installation)*
+[Installation](#installation)
 
-[Tests](#Tests)*
+[Tests](#Tests)
 
-[Usage](#usage)*
+[Usage](#usage)
 
-[Contributing](#contributing)*
+[Contributing](#contributing)
 
-[License](#licenseDescription)*
+[License](#licenseDescription)
 
 [Questions](#questions)
 
 ## Installation
     
-    test
+    Run the following
 
 ## Tests  
 
-    test
+    Run
 
 ## Usage
 
@@ -41,9 +41,5 @@ test
 test
 
 ## Questions
-
-test
-
-test
 
 [test](test)[test](https://github.com/test)
