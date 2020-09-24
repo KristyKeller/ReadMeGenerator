@@ -13,7 +13,7 @@ A command-line README generator application that formats the user's input using 
 ## Screenshots
 ![screenshot1](./Assets/Images/example-1.PNG)
 ![screenshot2](./Assets/Images/example-02.png)
-![screenshot3](./Assets/Images/example-3.PNG)
+![screenshot3](./Assets/Images/example-2.png)
 
 ## Demo
 ![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
