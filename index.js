@@ -144,7 +144,7 @@ inquirer
     input += `\n\n`
     input += response.questions
     input += `\n\n`
-    input += "* ["+response.email+"]("+response.email+")"
+    input += "* <"+response.email+">"
     input += `\n\n`
     input += "* ["+response.username+"](https://github.com/"+response.username+")"
 
