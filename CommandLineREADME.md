@@ -4,7 +4,7 @@
 
 ## Description
 
-A short description providing details on the project goes here.
+A short description providing details on the project goes here. 
 
 ## Table of Contents
 
@@ -30,11 +30,11 @@ A short description providing details on the project goes here.
 
 ## Usage
 
-Anything the user needs to know using the repo goes here.
+Anything the user needs to know about using the repo goes here.
 
 ## Contributing
 
-Anything regarding contributing to your repo goes here.
+Anything regarding contributing to your repos goes here.
 
 ## License
 
