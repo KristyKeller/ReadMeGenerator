@@ -1,6 +1,23 @@
 # 🧾 README Generator
 [CLICK HERE FOR APPLICATION WALK THROUGH](https://drive.google.com/file/d/1ZTsD6GqhfSwdEwsjcoaG6HNUNrIlufpu/view?usp=sharing)
 
+
+## Table of Contents
+
+* [User Story](#user-story)
+
+* [Application Description](#application-description)
+
+* [Screenshots](#screenshots)
+
+* [Demo](#demo)
+
+* [Built With](#built-with)
+
+* [License](#license)
+
+* [Questions](#questions)
+
 ## User Story
 ```
 As a developer
@@ -12,9 +29,9 @@ so that I can quickly create a professional README for a new project
 A command-line README generator application that formats the user's input using Markdown.
 
 ## Screenshots
-![screenshot1](./Assets/Images/example-1.PNG)
 ![screenshot3](./Assets/Images/example-3.png)
 ![screenshot2](./Assets/Images/example-02.png)
+![screenshot1](./Assets/Images/example-1.PNG)
 
 ## Demo
 ![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
