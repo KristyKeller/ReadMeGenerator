@@ -4,11 +4,15 @@
 
 ## Table of Contents
 
+* [Screenshots](#screenshots)
+
 * [User Story](#user-story)
 
 * [Application Description](#application-description)
 
-* [Screenshots](#screenshots)
+* [Installation](#installation)
+
+* [Usage](#usage)
 
 * [Demo](#demo)
 
@@ -17,6 +21,11 @@
 * [License](#license)
 
 * [Questions](#questions)
+
+## Screenshots
+![screenshot3](./Assets/Images/example-3.png)
+![screenshot2](./Assets/Images/example-02.png)
+![screenshot1](./Assets/Images/example-1.PNG)
 
 ## User Story
 ```
@@ -28,10 +37,15 @@ so that I can quickly create a professional README for a new project
 ## Application Description
 A command-line README generator application that formats the user's input using Markdown.
 
-## Screenshots
-![screenshot3](./Assets/Images/example-3.png)
-![screenshot2](./Assets/Images/example-02.png)
-![screenshot1](./Assets/Images/example-1.PNG)
+## Installation 
+```
+npm i 
+```
+
+## Usage 
+```
+run "node index.js" to start the question prompts
+```
 
 ## Demo
 ![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
