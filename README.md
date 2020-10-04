@@ -50,7 +50,7 @@ Run "node index.js" to start the question prompts
 ## Demo
 ![gif](https://media.giphy.com/media/394cEdECquFMsLsDSJ/giphy.gif)
 
- * [Click here for a full screen demo](https://drive.google.com/file/d/1bhLu0rQtZ7xfDRMs5FQ1AdVNLG6L_58Y/view?usp=sharing)
+ * [Click here for the full screen demo](https://drive.google.com/file/d/1bhLu0rQtZ7xfDRMs5FQ1AdVNLG6L_58Y/view?usp=sharing)
 
 ## Built With
 * Node
