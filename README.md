@@ -44,7 +44,7 @@ npm i
 
 ## Usage 
 ```
-run "node index.js" to start the question prompts
+Run "node index.js" to start the question prompts
 ```
 
 ## Demo
